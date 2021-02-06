@@ -1,2 +1,4 @@
 # LearnGit
 Test
+
+## Project notes
